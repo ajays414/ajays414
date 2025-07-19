@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajay S</h1>
-<h3 align="center">A passionate full-stack developer & DevOps & Cloud Enthusiast from India</h3>
+<h3 align="center">A passionate Full-Stack developer & DevOps & Cloud Enthusiast from India</h3>
 
 - 🔭 I’m currently working on **CI-CD-Pipeline-for-Kubernetes-Deployment-on-AWS**
 
